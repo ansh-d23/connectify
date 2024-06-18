@@ -112,7 +112,6 @@ We welcome contributions to Connectify! If you would like to contribute, please 
  ## Images
 
   ![image](./public/src/assets/ScreenShots/ss_1.png)
-  ![image](./public/src/assets/ScreenShots/ss_2.png)
   ![image](./public/src/assets/ScreenShots/ss_3.png)
   ![image](./public/src/assets/ScreenShots/ss_4.png)
 
